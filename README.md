@@ -1,6 +1,6 @@
-# Computer Vision Nanodegree Program, Exercises
+# Computer Vision Nanodegree Program
 
-This repository contains code exercises and materials for Udacity's [Computer Vision Nanodegree](https://www.udacity.com/course/computer-vision-nanodegree--nd891) program. It consists of tutorial notebooks that demonstrate, or challenge you to complete, various computer vision applications and techniques. These notebooks depend on a number of software packages to run, and so, we suggest that you create a local environment with these dependencies by following the instructions below.
+This repository contains code exercises and materials for Udacity's [Computer Vision Nanodegree](https://www.udacity.com/course/computer-vision-nanodegree--nd891) program. It consists of tutorial notebooks that demonstrate, or challenge you to complete, various computer vision applications and techniques. These notebooks depend on a number of software packages to run, and so, we suggest that you create a local environment with these dependencies by following the instructions below. The weights file is too large to upload so we suggest to download the file from the YOLO web site.
 
 # Configure and Manage Your Environment with Anaconda
 
